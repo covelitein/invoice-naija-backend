@@ -1,0 +1,29 @@
+{
+  "eb9e7624-6a23-47cb-b914-f24be2f33e5c": {
+    "id": "eb9e7624-6a23-47cb-b914-f24be2f33e5c",
+    "ownerUserId": "default-local-user",
+    "email": "abrahamcovenant2004@gmail.com",
+    "ownerName": "Abraham Covenant",
+    "businessName": "Coveliteins Hub INC.",
+    "phone": "07076034422",
+    "bankName": "Opay",
+    "accountName": "Covenant Abraham",
+    "accountNumber": "9051214386",
+    "defaultTaxPercent": "0",
+    "plan": "free",
+    "industry": "general",
+    "aiProvider": "gemini",
+    "geminiEnabled": true,
+    "geminiAutoFillNotes": true,
+    "samplePackId": null,
+    "invoiceTemplate": "classic",
+    "invoiceFont": "sans",
+    "accentColor": "#1f8f4e",
+    "logoDataUrl": null,
+    "letterheadDataUrl": null,
+    "showLetterhead": true,
+    "invoiceFooterNote": "",
+    "createdAt": "2026-11-23T10:31:55.720Z",
+    "updatedAt": "2026-11-23T10:36:05.604Z"
+  }
+}
